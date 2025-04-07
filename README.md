@@ -108,3 +108,12 @@ The controller board will:
 </p>
 
 ---
+##3D View: Top and  Bottom
+<p align="center">
+  <img src="Snapshoots/3d_View_top.png" width="600" alt="top layer" />
+
+  <img src="Snapshoots/3d_view_bottom.png" width="600" alt="Bottom-Layer" />
+
+</p>
+
+---
