@@ -81,9 +81,30 @@ The controller board will:
 
 ---
 
+##Project Structure
 <p align="center">
   <img src="Snapshoots/Schematics_Structure.png" width="600" alt="Project Structure" />
 </p>
 
 ---
 
+---
+
+##Layer Stack up
+<p align="center">
+  <img src="Snapshoots/layer_Stackup.png" width="600" alt="Layer Stack up" />
+</p>
+
+---
+
+---
+
+##2D View: Top and  Bottom
+<p align="center">
+  <img src="Snapshoots/pcb_top_View.png" width="600" alt="top layer" />
+
+  <img src="Snapshoots/pcb_Bottom_View.png" width="600" alt="Bottom-Layer" />
+
+</p>
+
+---
