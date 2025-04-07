@@ -80,3 +80,10 @@ The controller board will:
 - Energy Monitoring and Automation Hubs
 
 ---
+
+<p align="center">
+  <img src="Snapshoots/Schematics_Structure.png" width="600" alt="Project Structure" />
+</p>
+
+---
+
